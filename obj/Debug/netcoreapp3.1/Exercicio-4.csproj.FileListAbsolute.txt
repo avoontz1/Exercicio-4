@@ -1,0 +1,13 @@
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\obj\Debug\netcoreapp3.1\Exercicio-4.csprojAssemblyReference.cache
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\obj\Debug\netcoreapp3.1\Exercicio-4.AssemblyInfoInputs.cache
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\obj\Debug\netcoreapp3.1\Exercicio-4.AssemblyInfo.cs
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\obj\Debug\netcoreapp3.1\Exercicio-4.csproj.CoreCompileInputs.cache
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\bin\Debug\netcoreapp3.1\Exercicio-4.exe
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\bin\Debug\netcoreapp3.1\Exercicio-4.deps.json
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\bin\Debug\netcoreapp3.1\Exercicio-4.runtimeconfig.json
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\bin\Debug\netcoreapp3.1\Exercicio-4.runtimeconfig.dev.json
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\bin\Debug\netcoreapp3.1\Exercicio-4.dll
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\bin\Debug\netcoreapp3.1\Exercicio-4.pdb
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\obj\Debug\netcoreapp3.1\Exercicio-4.dll
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\obj\Debug\netcoreapp3.1\Exercicio-4.pdb
+C:\Users\victo_000\Desktop\HTML\Exercicio-4\obj\Debug\netcoreapp3.1\Exercicio-4.genruntimeconfig.cache
